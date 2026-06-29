@@ -58,5 +58,6 @@
 | 2026-06-16 | 定期監視実施。複数URL・複数サイトへのアクセスを試みるも全て HTTP 403 Forbidden（pref.ibaraki.jp・maff.go.jp・その他サイト）。WebSearch のメタデータでは引き続き最終更新日 2026年5月29日を確認。**6月16日時点で新たな更新の証拠なし**。June以降の6月号発行有無は不明。手動での確認を推奨。 |
 | 2026-06-19 | 定期監視実施。pref.ibaraki.jp・maff.go.jp・kumiai-chem.co.jp・boujo.agrinews.co.jp・city.mito.lg.jp など複数サイトへのアクセスを試みるも全て HTTP 403 Forbidden。WebSearch では令和8年度ページ（yosatsujyohor8.html）が引き続きインデックス済みだが内容の変化を確認できず。**6月19日時点でも最終更新日2026年5月29日から変化の証拠なし**。6月号が発行されている可能性あり（月中旬以降）。手動での確認を推奨。 |
 | 2026-06-21 | 定期監視実施。pref.ibaraki.jp への直接アクセス（本体・PDF・キャッシュ経由）および WebSearch（日本語・英語複数クエリ）を試みるも全て HTTP 403 Forbidden またはインデックス未更新。6月号（Yr0806）の新規コンテンツ確認不可。**6月21日時点でも最終更新日2026年5月29日から変化の証拠なし**。手動での確認を推奨。 |
+| 2026-06-29 | 定期監視実施。pref.ibaraki.jp（本体・PDF）・maff.go.jp・kumiai-chem.co.jp・hokkochem.co.jp・boujo.agrinews.co.jp・jadea.org・city.mito.lg.jp・town.ibaraki-sakai.lg.jp など複数サイトへのアクセスを試みるも全て HTTP 403 Forbidden。WebSearch では令和8年度ページが依然インデックス済みだが最終更新日 2026年5月29日から変化の証拠なし。6月号の新規コンテンツ確認不可。**6月29日時点でも最終更新日2026年5月29日から変化の証拠なし**。手動での確認を推奨。 |
 
-最終確認日: 2026-06-21
+最終確認日: 2026-06-29
